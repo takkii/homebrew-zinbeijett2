@@ -1,6 +1,6 @@
 require "formula"
 
-class Zinbei2 < Formula
+class Zinbeijett2 < Formula
   
   homepage "https://github.com/takkii/zinbeijett2"
   url "https://github.com/takkii/zinbeijett2/archive/2.0.0.tar.gz"
